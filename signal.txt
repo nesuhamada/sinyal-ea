@@ -1,2 +1,1 @@
-Posisi SHORT dibawah harga 3837.000
-Posisi LONG diatas harga 3837.000
+3837.000
