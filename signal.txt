@@ -1,2 +1,2 @@
-Resistance: 3972.000
-Support: 3840.000
+Resistance: 4000.000
+Support: 3896.000
