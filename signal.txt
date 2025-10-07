@@ -1,3 +1,4 @@
 # XAUUSD
-Resistance: 4000.000
-Support: 3862.000
+Resistance: 4020.000
+Pivot: 3943.000
+Support: 3895.000
