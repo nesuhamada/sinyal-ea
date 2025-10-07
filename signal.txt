@@ -1,4 +1,4 @@
 # XAUUSD 10 Juli 2025
-Resistance: 4020.000
-Pivot: 3940.000
-Support: 3895.000
+Resistance: 4050.000
+Pivot: 3955.000
+Support: 3920.000
