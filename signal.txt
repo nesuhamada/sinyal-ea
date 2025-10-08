@@ -1,4 +1,4 @@
-# XAUUSD 08 Okt 2025
-Resistance: 4120.000
-Pivot: 3998.000
-Support: 3960.000
+# XAUUSD 09 Okt 2025
+Resistance: 4135.000
+Pivot: 4015.000
+Support: 3965.000
